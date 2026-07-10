@@ -1,0 +1,7 @@
+{
+  "client_id": "ecommerce_z",
+  "domain": "e-commerce",
+  "categories": ["billing", "order_delivery", "refunds", "account_settings", "product_returns"],
+  "escalation_keywords": ["chargeback", "double charge", "damaged item", "stolen package"],
+  "sla_hours": {"critical": 1, "high": 6, "medium": 36, "low": 84}
+}

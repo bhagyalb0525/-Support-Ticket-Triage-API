@@ -1,0 +1,7 @@
+{
+  "client_id": "telecom_y",
+  "domain": "telecom",
+  "categories": ["network_coverage", "sim_card", "roaming", "broadband","billing"],
+  "escalation_keywords": ["no service", "outage", "stolen sim", "emergency call"],
+  "sla_hours": {"critical": 2, "high": 8, "medium": 48, "low": 96}
+}

@@ -1,0 +1,7 @@
+{
+  "client_id": "bank_x",
+  "domain": "banking",
+  "categories": ["network", "account_security", "app_bugs","billing"],
+  "escalation_keywords": ["unauthorized transaction", "fraud", "account locked", "compromised"],
+  "sla_hours": {"critical": 1, "high": 4, "medium": 24, "low": 72}
+}
