@@ -3,7 +3,11 @@
 An AI-powered support ticket triage system for enterprise customer support teams, built using **FastAPI (Python)** and the **Gemini API**. It reads a raw support ticket (text) and returns structured triage insights (department classification, urgency level, estimated resolution complexity, and an escalation flag) driven by per-client rules configured via JSON files.
 
 ---
+## 🚀 Live Deployment
 
+- 🚀 **Live API:** [Open API](https://support-ticket-triage-api-2.onrender.com)
+- 📚 **Swagger UI:** [View Interactive API Documentation](https://support-ticket-triage-api-2.onrender.com/docs)
+---
 ## Architecture Overview
 
 This project adheres to a clean **3-layer architecture**:
